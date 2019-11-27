@@ -1,0 +1,106 @@
+/**
+ * Copyright (c) 2015 Northwestern University.
+ * Copyright (c) 2015 The Ohio State University.
+ * All rights reserved.
+ * 
+ * Developed by: Northwestern University, and The Ohio State University
+ * 	      http://users.eecs.northwestern.edu/~hardav/projects/elastic_fidelity/
+ * 
+ * Permission is hereby granted, free of charge, to any person obtaining a copy of
+ * this software and associated documentation files (the "Software"), to deal with
+ * the Software without restriction, including without limitation the rights to 
+ * use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+ * the Software, and to permit persons to whom the Software is furnished to do so, 
+ * subject to the following conditions:
+ * 
+ * * Redistributions of source code must retain the above copyright notice, this 
+ *   list of conditions and the following disclaimers.
+ * * Redistributions in binary form must reproduce the above copyright notice, this
+ *   list of conditions and the following disclaimers in the documentation and/or 
+ *   other materials provided with the distribution.
+ * * Any use of the Software, copies, or derivative works must cite the following
+ *   publication: Georgios Tziantzioulis, Ali Murat Gok, S M Faisal, Nikos
+ *   Hardavellas,  Seda Ogrenci-Memik, and Srinivasan Parthasarathy. “b-HiVE: A
+ *   Bit-Level History-Based Error Model with Value Correlation for Voltage-Scaled
+ *   Integer and Floating Point Units.” In Proceedings of the 52nd Design Automation
+ *   Conference (DAC), San Francisco, USA, 2015.
+ *   http://dx.doi.org/10.1145/2744769.2744805
+ * * Neither the names of Northwestern University, or The Ohio State University, 
+ *   nor the names of its contributors may be used to endorse or promote products 
+ *   derived from this Software without specific prior written permission.
+ * 
+ * 
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+ * CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH 
+ * THE SOFTWARE.
+ */
+
+
+        {481108,171936,81728,265228,1000000},
+        {463413,162864,88907,284816,1000000},
+        {446188,183818,86411,283583,1000000},
+        {457163,169004,101247,272586,1000000},
+        {458138,172869,90698,278295,1000000},
+        {468015,175709,75304,280972,1000000},
+        {448787,168882,88351,293980,1000000},
+        {455736,186886,89345,268033,1000000},
+        {477991,171429,88031,262549,1000000},
+        {464144,158393,97715,279748,1000000},
+        {486592,161672,89906,261830,1000000},
+        {449274,176329,82126,292271,1000000},
+        {463731,173595,79055,283619,1000000},
+        {465740,176999,92986,264275,1000000},
+        {472112,168107,82483,277298,1000000},
+        {472897,174392,87196,265515,1000000},
+        {505918,167325,82873,243884,1000000},
+        {466559,178888,94279,260274,1000000},
+        {476788,164438,92841,265933,1000000},
+        {475805,159678,86291,278226,1000000},
+        {470775,166534,81666,281025,1000000},
+        {483559,174820,77787,263834,1000000},
+        {487703,173771,71312,267214,1000000},
+        {483291,180115,82315,254279,1000000},
+        {471935,155732,90910,281423,1000000},
+        {486808,179857,68746,264589,1000000},
+        {489779,162736,88051,259434,1000000},
+        {504077,190865,75041,230017,1000000},
+        {489615,159745,82269,268371,1000000},
+        {511873,153973,73711,260443,1000000},
+        {492523,151994,81396,274087,1000000},
+        {524694,168422,54252,252632,1000000},
+        {516178,154697,68667,260458,1000000},
+        {511683,168413,77357,242547,1000000},
+        {508209,150247,75534,266010,1000000},
+        {516206,167748,66451,249595,1000000},
+        {542300,164975,59222,233503,1000000},
+        {540586,149396,61313,248705,1000000},
+        {524328,161913,62920,250839,1000000},
+        {533995,162521,58044,245440,1000000},
+        {557072,152734,72348,217846,1000000},
+        {559572,163517,59162,217749,1000000},
+        {554566,147939,52547,244948,1000000},
+        {560579,145052,56314,238055,1000000},
+        {572023,148210,53289,226478,1000000},
+        {567496,159072,54171,219261,1000000},
+        {598274,142242,53449,206035,1000000},
+        {601367,138580,40206,219847,1000000},
+        {652059,143734,30675,173532,1000000},
+        {689212,121573,30165,159050,1000000},
+        {615771,160235,36913,187081,1000000},
+        {771896,113139,13687,101278,1000000},
+        {920378,35072,0,44550,1000000},
+        {938774,25975,928,34323,1000000},
+        {967960,13593,971,17476,1000000},
+        {825852,70916,8977,94255,1000000},
+        {759892,102903,10555,126650,1000000},
+        {794569,84163,13575,107693,1000000},
+        {953488,22245,0,24267,1000000},
+        {949659,26138,969,23234,1000000},
+        {974260,10487,0,15253,1000000},
+        {984374,8790,0,6836,1000000},
+        {981817,9570,0,8613,1000000},
+        {1000000,0,0,0,1000000}
