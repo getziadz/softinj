@@ -1,14 +1,22 @@
+# SoftInj
 
-This is softinj a software implemented fault injection library.
+SoftInj is a software implemented fault injection library.
+The model behind SoftInj is described in:
+```
+Georgios Tziantzioulis, Ali Murat Gok, S M Faisal, Nikos Hardavellas,  Seda Ogrenci-Memik, and Srinivasan Parthasarathy.
+“b-HiVE: A Bit-Level History-Based Error Model with Value Correlation for Voltage-Scaled Integer and Floating Point Units.”
+In Proceedings of the 52nd Design Automation Conference (DAC), San Francisco, USA, 2015.
+http://dx.doi.org/10.1145/2744769.2744805
+```
 
-* WEBSITE
+## WEBSITE
   http://users.eecs.northwestern.edu/~hardav/projects/elastic_fidelity/
 
-* DEPENDENCIES
+## DEPENDENCIES
   Requires a compiler with support of the c++11 standard
   Has been tested with  g++-4.8.3
   
-* COMPILE
+## COMPILE
   To compile the shared library file simply execute the following commands
   (where <SOFTINJ_DIR> is the root directory of the softinj root directory):
 
@@ -19,7 +27,7 @@ This is softinj a software implemented fault injection library.
   After this the src/ directory should contain the static and shared versions
   of the library (i.e. libsoftinj.a, and libsoftinj.so).
 
-* USE
+## USE
 
   To use the library you need to perform the following steps:
 
@@ -35,7 +43,7 @@ This is softinj a software implemented fault injection library.
   * For an example application that use thes softinj library you can look at the example/
     folder
 
-* LICENSE
+## LICENSE
 
 Copyright (c) 2015 Northwestern University.
 Copyright (c) 2015 The Ohio State University.
